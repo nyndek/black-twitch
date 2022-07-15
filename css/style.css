@@ -1,0 +1,15 @@
+.tw-root--theme-dark body {
+    background-color: #000;
+}
+
+.tw-root--theme-dark, :root {
+    --color-background-body: #000;
+    --color-background-base: #000;
+    --color-background-alt: #000;
+    --color-background-alt-2: #000;
+    --color-background-float: #000;
+}
+
+.tw-root--theme-dark .chat-room {
+    background: #000;
+}
