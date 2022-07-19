@@ -5,7 +5,9 @@
     Black Twitch
 </h1>
 
-<p align="center">A black theme for Twitch based on dark theme.</p>
+<p align="center">
+    <em>A black theme for Twitch based on dark theme</em>
+<p align="center">
 
 <p align="center">
     <a href="https://addons.mozilla.org/en-US/firefox/addon/black-twitch/">
