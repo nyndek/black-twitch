@@ -9,11 +9,15 @@
     <em>A black theme for Twitch based on dark theme</em>
 <p align="center">
 
+***
+
 <p align="center">
     <a href="https://addons.mozilla.org/en-US/firefox/addon/black-twitch/">
         <img height="58" src="https://i.imgur.com/2jJOtTI.png" alt="Firefox add-ons">
     </a>
 </p>
+
+***
 
 <p align="center"><img src="assets/black-twitch.png" height="400"></p>
 
