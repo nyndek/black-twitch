@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-    <em>A black theme for Twitch based on dark theme</em>
+    <b>A black theme for Twitch based on dark theme</b>
 <p align="center">
 
 ***
