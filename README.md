@@ -3,7 +3,7 @@
     Black Twitch
 </h1>
 
-<p align="center"><b>A black theme for Twitch based on dark theme</b></p>
+<p align="center"><b>The black theme for Twitch</b></p>
 
 <p align="center">
     <br>
@@ -13,6 +13,10 @@
 </p>
 
 <p align="center"><img src="assets/black-twitch.png" height="400" alt="Black Twitch screenshot"></p>
+
+## Description
+
+**Black Twitch** extension takes Twitch's Dark Theme as a base and converts it to Black Theme.
 
 ## Usage
 
