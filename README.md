@@ -8,7 +8,7 @@
 <p align="center">
     <br>
     <a href="https://addons.mozilla.org/en-US/firefox/addon/black-twitch/">
-        <img src="https://i.imgur.com/2jJOtTI.png" height="58" alt="Firefox add-ons"></a>
+        <img src="https://i.imgur.com/2jJOtTI.png" height="58" alt="Firefox Add-ons"></a>
     <br><br>
 </p>
 
