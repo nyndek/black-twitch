@@ -24,4 +24,4 @@ Enable the Twitch dark theme and then install Black Twitch extension to automati
 
 ## License
 
-This project is lincesed under [MIT License](LICENSE).
+This project is licensed under [MIT License](LICENSE).
