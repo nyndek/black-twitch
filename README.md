@@ -1,5 +1,5 @@
 <h1 align="center">
-    <sub><img src="src/icons/icon-128.png" height="38"></sub>
+    <sub><img src="icons/icon-128.png" height="38"></sub>
     Black Twitch
 </h1>
 
