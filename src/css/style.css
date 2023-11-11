@@ -17,3 +17,7 @@
 .tw-root--theme-dark .chat-room {
     background: #000;
 }
+
+.simplebar-content {
+    border-right: var(--border-width-default) solid var(--color-border-base) !important;
+}
